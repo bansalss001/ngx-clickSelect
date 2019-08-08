@@ -1,0 +1,23 @@
+{
+  "name": "ngx-clickselect",
+  "version": "0.0.1",
+  "description": "Angular Directive to bind both events click and select on element.On click it emit the clicked event and on selecting the particular text from element it will get selected and copied to your clipboard and will generate a appearable text Copied to Clipboard!! appear on your screen",
+  "private": false,
+  "keywords": [
+    "ngx-clickselect",
+    "clickselect",
+    "ngClickSelect",
+    "ngxClickSelect",
+    "select or click",
+    "click or select"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Sushant Bansal",
+    "email": "bansalss001@gmail.com"
+  },
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  }
+}
