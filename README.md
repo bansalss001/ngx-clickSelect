@@ -8,6 +8,6 @@ npm install ngx-clickselect
 
 ## Examples
 
-<div class="Box-header">
+<div className="Box-header">
   &#60;div &#40;ngxClickSelect&#41;="click&#40;$event&#41;"&#62; {{Your Text / Elements}} &#60;/div&#62;
 </div>
