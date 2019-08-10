@@ -21,5 +21,10 @@ For Exaample : -
   &#60;div id="clipboard"&#62; I got Copied to Clipboard &#60;/div&#62;
 </div>
 
+## Npm Install 
+  npm i ngx-clickselect
+
 ## NPM Link
- https://www.npmjs.com/package/ngx-clickselect
+<a href="https://www.npmjs.com/package/ngx-clickselect">ngx-clickselect</a>
+
+
